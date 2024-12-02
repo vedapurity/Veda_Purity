@@ -1,4 +1,4 @@
-Veda Purity 🌿  
+# Veda Purity 🌿  
 **Bringing the Essence of Ayurveda to Modern Wellness**
 
 ---
@@ -61,7 +61,7 @@ A: Yes, when guided by qualified practitioners and using quality products.
 We are here for your care. If you’re ready to embark on your journey to wellness:  
 
 **📧 Email:** [contact@vedapurity.com](mailto:contact@vedapurity.com)  
-**📞 Contact Number:** +1 (609) 205 2995
+**📞 Phone:** +1 (609) 205 2995  
 **🌐 Website:** [www.vedapurity.com](http://www.vedapurity.com)  
 **📱 Social Media:** [Instagram](#) | [Facebook](#) | [Twitter](#)  
 
