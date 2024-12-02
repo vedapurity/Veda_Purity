@@ -63,7 +63,7 @@ We are here for your care. If you’re ready to embark on your journey to wellne
 **📧 Email:** [contact@vedapurity.com](mailto:contact@vedapurity.com)  
 **📞 Phone:** +1 (609) 205 2995  
 **🌐 Website:** [www.vedapurity.com](http://www.vedapurity.com)  
-**📱 Social Media:** [Instagram](#) | [Facebook](#) | [Twitter](#)  
+**📱 Social Media:** [Instagram](https://www.instagram.com/vedapurity/) | [Facebook](https://www.facebook.com/vedapurity) | [Twitter](https://x.com/vedapurity)  
 
 ---
 
