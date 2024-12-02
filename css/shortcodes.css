@@ -43,6 +43,9 @@
 
 **/
 
+.prt_floting_customsett {
+    display: none;
+}
 
 /* ===============================================
     1.prt-row
@@ -3638,16 +3641,7 @@ ul.prt-p_table-features li{
 
 /*** Color Switcher Style
 ==================================================================== ***/
-.prt_floting_customsett {
-    position: fixed;
-    top: 50%;
-    right: 0;
-    padding: 3px 0 10px;
-    margin: -89px 0 0;
-    background-color: #fff;
-    box-shadow: 0 6px 12px rgb(0 0 0 / 25%);
-    z-index: 99999;
-}
+
 .tmtheme_fbar_icons {
     display: block;
     position: relative;
