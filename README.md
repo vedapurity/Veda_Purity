@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f90a9bb1-15fc-4185-bbc0-0eeb6c66b5ec)# Veda Purity 🌿  
+Veda Purity 🌿  
 **Bringing the Essence of Ayurveda to Modern Wellness**
 
 ---
