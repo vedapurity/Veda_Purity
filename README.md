@@ -61,7 +61,7 @@ A: Yes, when guided by qualified practitioners and using quality products.
 We are here for your care. If you’re ready to embark on your journey to wellness:  
 
 **📧 Email:** [contact@vedapurity.com](mailto:contact@vedapurity.com)  
-**📞 Phone:** +1 (609) 205 2995  
+**📞 Phone:** +91 99915 95515
 **🌐 Website:** [www.vedapurity.com](http://www.vedapurity.com)  
 **📱 Social Media:** [Instagram](#) | [Facebook](#) | [Twitter](#)  
 
